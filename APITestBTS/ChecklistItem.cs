@@ -9,10 +9,10 @@ namespace APITestBTS
     public class ChecklistItem
     {
         [Key]
-        public string ChecklistItemId;
+        public string ChecklistItemId { get; set; }
         [Required]
-        public string CheckListId;
+        public string CheckListId { get; set; }
         [Required]
-        public string ChecklistItemName;
+        public string ChecklistItemName { get; set; }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furqon\\source\\repos\\APITestBTS\\APITestBTS\\APITestBTS.csproj": {}
+    "C:\\Users\\Furqon\\Documents\\GitHub\\APITestBTS\\APITestBTS\\APITestBTS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furqon\\source\\repos\\APITestBTS\\APITestBTS\\APITestBTS.csproj": {
+    "C:\\Users\\Furqon\\Documents\\GitHub\\APITestBTS\\APITestBTS\\APITestBTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furqon\\source\\repos\\APITestBTS\\APITestBTS\\APITestBTS.csproj",
+        "projectUniqueName": "C:\\Users\\Furqon\\Documents\\GitHub\\APITestBTS\\APITestBTS\\APITestBTS.csproj",
         "projectName": "APITestBTS",
-        "projectPath": "C:\\Users\\Furqon\\source\\repos\\APITestBTS\\APITestBTS\\APITestBTS.csproj",
+        "projectPath": "C:\\Users\\Furqon\\Documents\\GitHub\\APITestBTS\\APITestBTS\\APITestBTS.csproj",
         "packagesPath": "C:\\Users\\Furqon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furqon\\source\\repos\\APITestBTS\\APITestBTS\\obj\\",
+        "outputPath": "C:\\Users\\Furqon\\Documents\\GitHub\\APITestBTS\\APITestBTS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

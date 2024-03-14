@@ -9,10 +9,10 @@ namespace APITestBTS
     public class Auth
     {
         [Key]
-        public string Email;
+        public string Email { get; set; }
         [Required]
-        public string UserName;
+        public string UserName { get; set; }
         [Required]
-        public string Password;
+        public string Password { get; set; }
     }
 }

@@ -9,8 +9,8 @@ namespace APITestBTS
     public class Checklist
     {
         [Key]
-        public string ChecklistId;
+        public string ChecklistId { get; set; }
         [Required]
-        public string ChecklistName;
+        public string ChecklistName { get; set; }
     }
 }
