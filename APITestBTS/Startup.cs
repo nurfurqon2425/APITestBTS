@@ -65,7 +65,7 @@ namespace APITestBTS
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "APITestBTS v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("./v1/swagger.json", "APITestBTS v1"));
             }
 
             app.UseHttpsRedirection();
@@ -73,6 +73,8 @@ namespace APITestBTS
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
